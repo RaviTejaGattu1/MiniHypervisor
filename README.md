@@ -4,9 +4,8 @@
 This project is a **lightweight hypervisor** 🖥️ designed to manage **virtual machines (VMs)**. It includes capabilities for executing VM instructions, handling snapshots, and supporting **live migration** of VM states.  
 
 ## Demo
-<video width="600" controls>
-  <source src="Demonstration.mp4" type="video/mp4">
-</video>
+[Watch the demo video](/Demonstration.mp4)
+
 
 ## Features 🌟  
 - **Virtual Machine Execution**: Supports instruction execution with CPU register management.  
