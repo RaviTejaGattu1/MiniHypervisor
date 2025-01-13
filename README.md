@@ -238,5 +238,3 @@ void migrateVM(Hypervisor* hypervisor, const char* ipPort) {
     // Implementation of the migration process here...
 }
 ```
-
-```
